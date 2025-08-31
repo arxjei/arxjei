@@ -1,7 +1,3 @@
-
-![welcome](https://github.com/user-attachments/assets/001deea5-b6a6-4777-b82a-c6fb7641b821)
-<hr>
-
 ### Hi there! 👋
 
 I'm Ar Jay, I build web applications with a focus on performance, scalability, and great user experiences.  
