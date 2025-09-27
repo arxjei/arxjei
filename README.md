@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Ar Jay, I build web applications with a focus on performance, scalability, and great user experiences.  
+I'm Jei, I build web applications with a focus on performance, scalability, and great user experiences.  
 
 > Here’s a quick look at the tools I use and what I’m currently learning 🚀
 
