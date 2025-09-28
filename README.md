@@ -1,10 +1,4 @@
-### Hi there! 👋
+### Hi there! ⚡
 
-I'm Jei, I build web applications with a focus on performance, scalability, and great user experiences.  
-
-- ⚡ Main stack: PHP (Laravel, Livewire, FilamentPHP), Tailwind, Bootstrap, MySQL  
-- 🌱 Currently exploring: Other frameworks, packages & docs
-- 🌌 usually active 9 PM – 6 AM  
-
-**My daily loop**  
-☀️ Wake up → 🙏 Pray → 💡 Do something amazing → 😅 JK, mostly solving tricky bugs → 🛠 Make things more systematic → 🔁 Repeat
+I'm Jei, and I build web applications with a focus on performance, scalability, and user experiences.  
+When I’m not coding, I like to try out new tools and find ways to make everyday tasks easier.
